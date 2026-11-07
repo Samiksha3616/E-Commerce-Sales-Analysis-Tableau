@@ -29,7 +29,7 @@ Source: Kaggle – E-Commerce Sales Dataset
 
 ## Dashboard Preview
 Add your dashboard screenshot here.
-![E-Commerce Sales Dashboard](E-Commerce_Sales_Dashboard.png)
+![E-Commerce Sales Dashboard](E-Commerce_Sales_Dashboard.png.png)
 
 ## Key Learnings
 - Data Visualization using Tableau
